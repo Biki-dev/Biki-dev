@@ -1,5 +1,7 @@
 ## Hi there, I'm Biki Kalita! 👋
 
+![Fun Coding GIF](https://tenor.com/bU389.gif)
+
 I'm an aspiring engineer passionate about coding, building products, and solving problems.  
 
 ### 🚀 About Me
