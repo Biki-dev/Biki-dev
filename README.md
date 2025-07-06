@@ -20,6 +20,8 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naru.tobik1/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biki-dev)
 
+### 🏌️ GitHub Stats
+
 ![Biki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=radical)
 
 
