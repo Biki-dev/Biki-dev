@@ -1,6 +1,6 @@
 ## Hi there, I'm Biki Kalita! 👋
 
-![My GIF](https://media.tenor.com/bU389.gif)
+![My GIF](https://tenor.com/en-GB/view/luffy-luffy-one-piece-one-piece-luffy-monkey-d-luffy-dazlia-gif-25954625)
 
 I'm an aspiring engineer passionate about coding, building products, and solving problems.  
 
