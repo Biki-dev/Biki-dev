@@ -27,5 +27,5 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biki-dev&layout=compact&theme=radical) 
 
-[![Biki's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Biki's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Biki's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=dark#gh-dark-mode-only)
+![Biki's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=default#gh-light-mode-only)
