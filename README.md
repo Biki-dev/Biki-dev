@@ -22,10 +22,9 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 
 ### 🏌️ GitHub Stats
 
-![Biki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biki-dev&layout=compact&theme=radical) 
-
 ![Biki's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=dark#gh-dark-mode-only)
-![Biki's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=default#gh-light-mode-only)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biki-dev&layout=compact&theme=dark#gh-dark-mode-only) 
+
+
