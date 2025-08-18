@@ -1,6 +1,6 @@
 ## Hi there, I'm Biki Kalita! 👋
 
-## I have important projects in private repos, so don’t judge me by my public ones ☕
+> <sub>☕ I have important projects in private repos, so don’t judge me by my public ones</sub>
 
 ![My GIF](https://github.com/Biki-dev/Biki-dev/blob/mai/giphy.gif)
 
