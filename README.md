@@ -12,6 +12,27 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 - ⚽ Football enthusiast & anime lover  
 - 🌟 **Dream Project:** Developing my own web browser
 
+---
+
+### 🌐 Featured Projects
+
+#### 🔥 [Real One Piece](https://real-onepeice.vercel.app)  
+⚡ A website dedicated to making education free and accessible for students… yeah, book piracy ☠️😆
+
+#### 🎨 [Rang Desaaj](https://rang-desaaj.vercel.app)  
+🖌️ A **custom resin art e-commerce platform** with features like:  
+- Product personalization  
+- Razorpay payment integration  
+- Mobile-friendly UI  
+- Legal pages (T&C, Privacy, Disclaimer)  
+> <sub>☕ Currently not working on this project</sub>
+
+
+🔒 *Note: The repositories for these projects are private, but live versions are available above.*  
+
+---
+
+
 ### 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
