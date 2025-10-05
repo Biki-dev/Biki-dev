@@ -16,6 +16,14 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 
 ### 🌐 Featured Projects
 
+#### 💬 [Nigga-Chat](https://nigga-chat.vercel.app/)
+🚀 A **real-time chat application** with features like:  
+- User authentication (signup/login) with JWT & bcrypt  
+- Real-time messaging using Socket.IO  
+- Contact & chat management  
+- Responsive UI for mobile & desktop  
+> <sub>☕ Currently working on new features, and fixing bugs </sub>
+
 #### 🔥 [Real One Piece](https://real-onepeice.vercel.app)  
 ⚡ A website dedicated to making education free and accessible for students… yeah, book piracy ☠️😆
 
@@ -24,7 +32,6 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 - Product personalization  
 - Razorpay payment integration  
 - Mobile-friendly UI  
-- Legal pages (T&C, Privacy, Disclaimer)  
 > <sub>☕ Currently not working on this project</sub>
 
 
