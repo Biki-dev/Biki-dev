@@ -32,8 +32,6 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 - Product personalization  
 - Razorpay payment integration  
 - Mobile-friendly UI  
-> <sub>☕ Currently not working on this project</sub>
-
 
 🔒 *Note: The repositories for these projects are private, but live versions are available above.*  
 
