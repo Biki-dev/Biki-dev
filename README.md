@@ -1,7 +1,5 @@
 ## Hi there, I'm Biki Kalita! 👋
 
-> <sub>☕ I have important projects in private repos, so don’t judge me by my public ones</sub>
-
 ![My GIF](https://github.com/Biki-dev/Biki-dev/blob/mai/giphy.gif)
 
 I'm an aspiring engineer passionate about coding, building products, and solving problems.  
