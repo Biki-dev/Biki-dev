@@ -51,11 +51,5 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biki-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Biki-dev/)
 
-### 🏌️ GitHub Stats
-
-![Biki's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Biki-dev&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biki-dev&layout=compact&theme=dark#gh-dark-mode-only) 
 
 
