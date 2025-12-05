@@ -12,7 +12,7 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 
 ---
 
-### 🌐 Featured Projects
+### 🌐 Featured Projects 
 
 #### 💬 [Nigga-Chat](https://nigga-chat.vercel.app/)
 🚀 A **real-time chat application** with features like:  
