@@ -25,7 +25,7 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 #### 🔥 [Real One Piece](https://real-onepeice.vercel.app)  
 ⚡ A website dedicated to making education free and accessible for students… yeah, book piracy ☠️😆
 
-#### 🎨 [Rang Desaaj](https://rang-desaaj.vercel.app)  
+#### 🎨 [Rang Desaj](https://rang-desaaj.vercel.app)  
 🖌️ A **custom resin art e-commerce platform** with features like:  
 - Product personalization  
 - Razorpay payment integration  
@@ -40,6 +40,7 @@ I'm an aspiring engineer passionate about coding, building products, and solving
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=pyth08baon&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
